@@ -17,7 +17,7 @@
   
   ## Usage
 
-  Find the demonstration video [here](https://drive.google.com/file/d/1RpkFyfLXHZh7-clTtaG0vcpjGBf2izou/view)
+  Find the demonstration video [here](https://drive.google.com/file/d/1RpkFyfLXHZh7-clTtaG0vcpjGBf2izou/view).
 
   ![screenshot](Examples/Screenshot.png)
   ![example SVG](Examples/example1.svg)
